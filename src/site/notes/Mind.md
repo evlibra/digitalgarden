@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/mind/"}
 ---
 
-Thoughts
+Thoughts2
 
 [[Body\|Body]]
